@@ -11,8 +11,11 @@ public class Main {
         iScanner.close();
 
         int numb = Integer.parseInt(n);
-        int res = Task1.calculateTriangularNumber(numb);
 
+        int res = Task1.calculateTriangularNumber(numb);
         System.out.println("n-ое треуг.число: " + res);
+
+        int res1 = Task2.calculateFactorial(numb);
+        System.out.println("n-факториал: " + res1);
     }
 }
