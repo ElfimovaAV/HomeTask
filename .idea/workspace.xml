@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add task 3">
-      <change afterPath="$PROJECT_DIR$/src/seminar1/tasks/Task4.java" afterDir="false" />
+    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add task 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seminar1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar1/tasks/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/tasks/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679955084309</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add task 4">
+      <created>1679957127896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679957127896</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +95,7 @@
     <MESSAGE value="add task 1" />
     <MESSAGE value="add task 2" />
     <MESSAGE value="add task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task 3" />
+    <MESSAGE value="add task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task 4" />
   </component>
 </project>

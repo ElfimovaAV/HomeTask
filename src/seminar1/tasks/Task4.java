@@ -2,17 +2,21 @@
 package seminar1.tasks;
 
 public class Task4 {
-    public static double calculate (int num1, char operator, int num2) {
-        double res = 0;
-        if (operator == '+') {
-            res += num1 + num2;
-        } else if (operator == '-') {
-            res += num1 - num2;
-        } else if (operator == '*') {
-            res += num1 * num2;
-        } else if (operator == '/') {
-            res += (double) num1 / num2;
+    public static void calculate (int num1, String operator, int num2) {
+        if (operator.equals("+")) {
+            double res = num1 + num2;
+            System.out.println(res);
+        } else if (operator.equals("-")) {
+            double res = num1 - num2;
+            System.out.println(res);
+        } else if (operator.equals("*")) {
+            double res = num1 * num2;
+            System.out.println(res);
+        } else if (operator.equals("/")) {
+            double res = (double) num1 / num2;
+            System.out.println(res);
+        } else {
+            throw new RuntimeException("Операция не поддерживается");
         }
-        return res;
     }
 }
