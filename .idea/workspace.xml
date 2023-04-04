@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add task 4">
+    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add corrections of task 4">
+      <change afterPath="$PROJECT_DIR$/jsonTask2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/tasks/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/tasks/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,14 @@
     "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/HomeTask"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Андрей\Documents\Разработчик\Java\HomeTask" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="seminar2.tasks" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679957127896</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add corrections of task 4">
+      <created>1680553800737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680553800737</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +115,7 @@
     <MESSAGE value="add task 2" />
     <MESSAGE value="add task 3" />
     <MESSAGE value="add task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task 4" />
+    <MESSAGE value="add corrections of task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add corrections of task 4" />
   </component>
 </project>
