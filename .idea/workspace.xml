@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add corrections of task 4">
-      <change afterPath="$PROJECT_DIR$/jsonTask2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar2/tasks/Task2.java" afterDir="false" />
+    <list default="true" id="0b5427e5-a3cf-462b-985e-1396ddfb856b" name="Changes" comment="add hometask for second seminar">
+      <change afterPath="$PROJECT_DIR$/src/seminar3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/tasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar3/tasks/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/HomeTask"
+    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/lecture3",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680553800737</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add hometask for second seminar">
+      <created>1680605306200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680605306200</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,11 +118,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/seminar3" />
+    </ignored-roots>
     <MESSAGE value="add task 1" />
     <MESSAGE value="add task 2" />
     <MESSAGE value="add task 3" />
     <MESSAGE value="add task 4" />
     <MESSAGE value="add corrections of task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add corrections of task 4" />
+    <MESSAGE value="add hometask for second seminar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hometask for second seminar" />
   </component>
 </project>
